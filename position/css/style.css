@@ -1,3 +1,12 @@
+@font-face {
+    font-family: '8152';
+    src: url('../fonts/8152.eot');
+    src: url('../fonts/8152.eot') format('embedded-opentype'),
+    url('../fonts/8152.woff2') format('woff2'),
+    url('../fonts/8152.woff') format('woff'),
+    url('../fonts/8152.ttf') format('truetype'),
+    url('../fonts/8152.svg#8152') format('svg');
+}
 * {
     margin: 0;
     padding: 0;
@@ -58,6 +67,7 @@ body div img {
     padding-top: 27px;
     padding-left: 18px;
     box-sizing: border-box;
+    font-family: '8152';
 
 }
 
@@ -89,6 +99,7 @@ body div img {
     color: #af2024;
     padding-left: 66px;
     display: inline-block;
+    font-family: '8152';
 
 }
 
@@ -97,6 +108,7 @@ body div img {
     font-size: 13px;
     color: #7d7d7d;
     padding-bottom: 41px;
+    font-family: '8152';
 }
 
 .container p {
@@ -104,6 +116,7 @@ body div img {
     color: #af2024;
     padding-left: 66px;
     padding-right: 66px;
+    font-family: '8152';
 }
 .facebook {
     position: fixed;
